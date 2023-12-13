@@ -1,3 +1,27 @@
-### `cd ./client && npm start`
+# Comeon JS Task
 
-Create a production build and run the server and client app.
+## Getting Started
+
+First, install client dependencies
+
+```bash
+cd client
+npm i
+```
+
+Second, install server dependencies
+
+```bash
+cd ../
+cd server
+npm i
+```
+
+Finally, run the application 
+
+```bash
+cd ../client
+npm start
+```
+
+I've created small server with Node.js Express and client with React
